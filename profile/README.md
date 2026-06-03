@@ -4,59 +4,61 @@
 
 # Quantum Wealth Kapital LLC
 
-**AI governance infrastructure for financial institutions**
+**AI governance infrastructure engineer · New York City**
 
-[![Website](https://img.shields.io/badge/Website-quantumwealthkapital.com-gold?style=flat-square)](https://quantumwealthkapital.com)
-[![SSRN Paper](https://img.shields.io/badge/SSRN-6791198-orange?style=flat-square)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6791198)
-[![ISO 42001](https://img.shields.io/badge/ISO%2042001-Aligned-blue?style=flat-square)](#)
-[![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-Aligned-blue?style=flat-square)](#)
-[![SOC 2](https://img.shields.io/badge/SOC%202-Type%20I-blue?style=flat-square)](#)
+[![Website](https://img.shields.io/badge/quantumwealthkapital.com-gold?style=flat-square&logo=globe)](https://quantumwealthkapital.com)
+[![SSRN Paper](https://img.shields.io/badge/SSRN_Paper-6791198-orange?style=flat-square)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6791198)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jdcardonam-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jdcardonam)
 
 </div>
 
 ---
 
-## What We Build
+## What I Build
 
-**BlackStack** — an autonomous multi-agent AI governance platform that brings institutional-grade financial risk management to AI infrastructure.
+**[BlackStack](https://github.com/Qwkapital/blackstack-public)** — an autonomous multi-agent AI governance platform that brings institutional-grade financial risk controls to AI infrastructure.
 
-Built for financial institutions that need audit-defensible AI systems aligned with OCC, Federal Reserve, and FSOC guidance.
+Addresses the governance gap documented in OCC Bulletin 2026-13, SR 26-2, and the FSOC 2025 Annual Report: existing federal AI risk frameworks were built for deterministic model risk and do not address multi-agent orchestration.
 
 ---
 
-## Platform Overview
+## Platform Metrics
 
-| Component | Scale |
-|-----------|-------|
-| AI Agents | 6 governed agents (NEXUS, CLAUDE, CODEX, GEMINI, GHOST, SENTINEL) |
-| MCP Servers | 53 across 8 architectural layers |
-| Compliance Controls | 233 active controls |
-| Audit Modules | 26 across 5 AEGIS domains |
-| Standards Aligned | NIST AI RMF · ISO/IEC 42001 · NIST CSF 2.0 · COBIT 2019 · SOC 2 Type I |
+| | |
+|---|---|
+| **AI Agents** | 6 governed (NEXUS · CLAUDE · CODEX · GEMINI · GHOST · SENTINEL) |
+| **MCP Servers** | 45 across 8 architectural layers |
+| **Compliance Controls** | 233 active (53 mechanical) |
+| **Audit Modules** | 26 across 5 AEGIS domains |
+| **Standards** | NIST AI RMF · ISO/IEC 42001 · NIST CSF 2.0 · COBIT 2019 · SOC 2 Type I |
+
+---
+
+## Background
+
+**Banco de Bogotá / Grupo Aval** (2015–2021) — six years in institutional risk management: group-level derivatives valuation, VaR consolidation across a $74B+ asset conglomerate, IFRS 13 fair value governance, AML/CFT compliance infrastructure.
+
+That experience — seeing how institutional financial governance actually works at scale — is what BlackStack is built on.
 
 ---
 
 ## Research
 
 📄 **[AI Governance for FDIC-Insured Institutions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6791198)**  
-Working paper documenting the governance gap in federal AI risk frameworks and BlackStack's architectural approach.  
-*SSRN Abstract ID: 6791198 · Published May 2026*
+Documents the governance gap in U.S. federal AI risk frameworks and a practitioner implementation methodology.  
+*SSRN Abstract ID: 6791198 · Published May 2026 · Google Scholar indexed*
 
 ---
 
 ## Repositories
 
-| Repo | Description |
-|------|-------------|
-| [blackstack-public](https://github.com/Qwkapital/blackstack-public) | Public reference implementation — architecture, governance docs, audit modules |
+| | |
+|---|---|
+| [blackstack-public](https://github.com/Qwkapital/blackstack-public) | Reference architecture, governance documentation, audit modules |
 | [n8n-skills](https://github.com/Qwkapital/n8n-skills) | n8n automation skills for Claude Code integration |
 
 ---
 
 <div align="center">
-
-**New York City, NY · qwkapital@gmail.com**
-
-*Building the systems that bring Wall Street discipline to AI governance.*
-
+<sub>Building systems that bring Wall Street discipline to AI governance.</sub>
 </div>
